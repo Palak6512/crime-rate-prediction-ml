@@ -113,6 +113,7 @@ This project is released under the **MIT License**.
 
 👤 Author
 Palak Tyagi
+Ishika Patni
 
 ---
 
